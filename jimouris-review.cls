@@ -21,7 +21,7 @@
 % Fonts %
 %%%%%%%%%
 \RequirePackage{fontspec}
-\setmainfont[
+\setmainfont[Path = fonts/,
     BoldFont={Ubuntu-M.ttf}, 
     ItalicFont={Ubuntu-LI.ttf},
     BoldItalicFont={Ubuntu-BI.ttf}
